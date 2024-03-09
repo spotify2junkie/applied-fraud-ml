@@ -2,6 +2,8 @@
 # applied-risk-ml
 Meticulously selected papers, articles, and blogs on the implementation of data science and machine learning in risk-related industries. This project is inspired by [applied-ml](https://github.com/eugeneyan/applied-ml?tab=readme-ov-file#feature-stores).
 
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
+
 **Table of Contents**
 
 - [applied-risk-ml](#applied-risk-ml)
@@ -82,5 +84,3 @@ Meticulously selected papers, articles, and blogs on the implementation of data 
 | [Viral spam content detection at LinkedIn](https://www.linkedin.com/blog/engineering/trust-and-safety/viral-spam-content-detection-at-linkedin)                   | 2023 | Linkedin  | Content Moderation  |
 | [Announcing Cloudflare Fraud Detection](https://blog.cloudflare.com/cloudflare-fraud-detection/)                                                                    | 2023 | Cloudflare| Bot Detection       |
 | [Variable Hub: Easier Data Integration for Risk Decisioning](https://innovation.ebayinc.com/tech/engineering/variable-hub-easier-data-integration-for-risk-decisioning/) | 2023 | Ebay      | CyberAttack         |
-
-```
